@@ -1,0 +1,6 @@
+{
+  "cpalrailways.service_track.line1": "您当前正在服务轨道上行驶！",
+  "cpalrailways.service_track.line2": "请随时确认调度指令。",
+  "cpalrailways.footer.by": "来自 ",
+  "cpalrailways.whereami": "你当前的坐标为：x=%s y=%s z=%s"
+}

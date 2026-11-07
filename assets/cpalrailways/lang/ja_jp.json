@@ -1,0 +1,6 @@
+{
+  "cpalrailways.service_track.line1": "現在サービス線を走行しています！",
+  "cpalrailways.service_track.line2": "常時運行指示を確認してください。",
+  "cpalrailways.footer.by": "提供：",
+  "cpalrailways.whereami": "現在の座標：x=%s y=%s z=%s"
+}

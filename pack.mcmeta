@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "CpAl Railways v0.0.1.0 - railway signaling & messaging pack",
+    "min_format": 88,
+    "max_format": 121
+  }
+}

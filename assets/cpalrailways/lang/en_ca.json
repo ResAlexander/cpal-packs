@@ -1,0 +1,6 @@
+{
+  "cpalrailways.service_track.line1": "You're currently running on the Service Track!",
+  "cpalrailways.service_track.line2": "Please acknowledge dispatch directives at all times.",
+  "cpalrailways.footer.by": "By ",
+  "cpalrailways.whereami": "Your current coordinates: x=%s y=%s z=%s"
+}
